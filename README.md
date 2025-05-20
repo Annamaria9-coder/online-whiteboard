@@ -7,7 +7,7 @@
   </a>
 </p>
 
-# Tldraw Whiteboard (Storage)
+# Online Whiteboard (Storage)
 
 <p>
   <a href="https://liveblocks.io/examples/tldraw-whiteboard/nextjs-tldraw-whiteboard-storage/preview">
