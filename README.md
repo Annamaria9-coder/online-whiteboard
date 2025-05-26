@@ -62,15 +62,10 @@ Alternatively, you can set up your project manually:
 
 <p></p>
 
-To both deploy on [Vercel](https://vercel.com), and run the example locally, use
-the following command:
 
 ```bash
 npx create-liveblocks-app@latest --example nextjs-tldraw-whiteboard-storage --vercel
 ```
-
-This will download the example and ask permission to open your browser, enabling
-you to deploy to Vercel.
 
 </details>
 
@@ -80,16 +75,8 @@ you to deploy to Vercel.
 
 <p></p>
 
-After forking
-[this example](https://codesandbox.io/s/github/liveblocks/liveblocks/tree/main/examples/nextjs-tldraw-whiteboard-storage)
-on CodeSandbox, create the `LIVEBLOCKS_SECRET_KEY` environment variable as a
-[secret](https://codesandbox.io/docs/secrets).
+
 
 </details>
 
-## License
 
-The `tldraw` library is provided under the
-[tldraw license](https://github.com/tldraw/tldraw/blob/main/LICENSE.md) which
-allows commercial and non-commercial use. To purchase a business license and
-remove the watermark, contact [sales@tldraw.com](mailto:sales@tldraw.com).
